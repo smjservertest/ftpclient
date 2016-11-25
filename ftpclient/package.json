@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ftpclient",
+        "scope": null,
+        "escapedName": "ftpclient",
+        "name": "ftpclient",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\node_project\\SupplyChain_job"
+    ]
+  ],
+  "_from": "ftpclient@latest",
+  "_id": "ftpclient@0.2.2",
+  "_inCache": true,
+  "_location": "/ftpclient",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "noodny",
+    "email": "krzysiek.jakubik@gmail.com"
+  },
+  "_npmVersion": "2.7.5",
+  "_phantomChildren": {
+    "inherits": "2.0.3",
+    "minimatch": "0.3.0"
+  },
+  "_requested": {
+    "raw": "ftpclient",
+    "scope": null,
+    "escapedName": "ftpclient",
+    "name": "ftpclient",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://registry.npmjs.org/ftpclient/-/ftpclient-0.2.2.tgz",
+  "_shasum": "bcea23562ab93c238a8e1cf3299534cc8c690a0a",
+  "_shrinkwrap": null,
+  "_spec": "ftpclient",
+  "_where": "D:\\node_project\\SupplyChain_job",
+  "author": {
+    "name": "Krzysztof Jakubik",
+    "email": "krzysiek.jakubik@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/noodny/node-ftpclient/issues"
+  },
+  "dependencies": {
+    "async": "~0.8.0",
+    "ftp": "~0.3.6",
+    "glob": "~3.2.9",
+    "lodash": "~2.4.1"
+  },
+  "description": "A wrapper for the node-ftp module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "bcea23562ab93c238a8e1cf3299534cc8c690a0a",
+    "tarball": "https://registry.npmjs.org/ftpclient/-/ftpclient-0.2.2.tgz"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "gitHead": "721a6333f5c8f20dc6e226c84c74f592407bdb23",
+  "homepage": "https://github.com/noodny/node-ftpclient",
+  "keywords": [
+    "ftp",
+    "client",
+    "transfer"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/noodny/node-ftpclient/raw/master/LICENSE"
+    }
+  ],
+  "main": "./lib/client",
+  "maintainers": [
+    {
+      "name": "noodny",
+      "email": "krzysiek.jakubik@gmail.com"
+    }
+  ],
+  "name": "ftpclient",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/noodny/node-ftpclient.git"
+  },
+  "scripts": {},
+  "version": "0.2.2"
+}
